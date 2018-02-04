@@ -1,6 +1,7 @@
 # SwipeUpLockX
 
 This library is for iPhone X ONLY. 
+
 Usage in other device models might produce undesired behavior and might not work as it surely does in the X. Use it at your own risk.
 
 It lets you lock the device using the swipe up from bottom screen gesture instead of the lock button (The phone is hella expensive so why not save your physical buttons?).
