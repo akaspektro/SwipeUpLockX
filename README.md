@@ -6,7 +6,7 @@ Usage in other device models might produce undesired behavior and might not work
 
 It lets you lock the device using the swipe up from bottom screen gesture instead of the lock button (The phone is hella expensive so why not save your physical buttons?).
 
-It now includes a preference bundle to make it work only in SpringBoard' main page or everywhere when there's no open app.
+It now includes a preference bundle to make it work only in SpringBoard's main page or everywhere when there's no open app.
 
 You know how it is, any executable file must be 0755 permission, others might be 0644...
 
